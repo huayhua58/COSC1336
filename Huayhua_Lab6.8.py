@@ -1,7 +1,8 @@
+#ACC COSC 1336
+#Lab 6.8
 #Lucero Huayhua
-#Complete
 
-#This program reads a file from exercise 7
+#This program reads a file 
 #displayes random numbers generated
 #displays the total of the numbers
 #and the number of random numbers read from the file
