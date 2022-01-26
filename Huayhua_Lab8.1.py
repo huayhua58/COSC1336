@@ -1,5 +1,6 @@
+#ACC COSC 1336
+#Lab 8.1 
 #Lucero Huayhua
-#Completed
 
 #This programs tells you the number of uppercase,
 #lowercase, digits, and spaces
