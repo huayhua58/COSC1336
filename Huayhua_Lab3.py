@@ -5,7 +5,7 @@
 #based on the total number of packages purchased at Geekware Software
 #and displays the new total amount of the purchase after the discount, if any, is applied
 
-#individual package price
+#get individual package price from user
 package_price = int (input ('Enter the package price:'))
 
 #get number of items purchased from user
